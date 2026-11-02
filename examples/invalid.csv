@@ -1,0 +1,3 @@
+order_id,date,customer,product,category,quantity,unit_price,status
+ORD-1,2026-02-30,Ada,Keyboard,Electronics,2,10.123,Paid
+ORD-2,2026-10-01,,Lamp,Home,0,-10,Unknown

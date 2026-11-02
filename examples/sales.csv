@@ -1,0 +1,19 @@
+order_id,date,customer,product,category,quantity,unit_price,status
+ORD-1001,2026-10-01,Olivia Martin,Studio Headphones,Electronics,1,129.00,Refunded
+ORD-1002,2026-10-02,Jackson Lee,Desk Lamp,Home,2,65.50,Paid
+ORD-1003,2026-10-03,Sofia Chen,Everyday Backpack,Accessories,3,89.95,Paid
+ORD-1004,2026-10-04,Noah Williams,Studio Headphones,Electronics,1,129.00,Paid
+ORD-1005,2026-10-05,Emma Davis,Desk Lamp,Home,2,65.50,Paid
+ORD-1006,2026-10-06,Liam Wilson,Everyday Backpack,Accessories,3,89.95,Pending
+ORD-1007,2026-10-07,Olivia Martin,Studio Headphones,Electronics,1,129.00,Paid
+ORD-1008,2026-10-08,Jackson Lee,Desk Lamp,Home,2,65.50,Refunded
+ORD-1009,2026-10-09,Sofia Chen,Everyday Backpack,Accessories,3,89.95,Paid
+ORD-1010,2026-10-10,Noah Williams,Studio Headphones,Electronics,1,129.00,Paid
+ORD-1011,2026-10-11,Emma Davis,Desk Lamp,Home,2,65.50,Pending
+ORD-1012,2026-10-12,Liam Wilson,Everyday Backpack,Accessories,3,89.95,Paid
+ORD-1013,2026-10-13,Olivia Martin,Studio Headphones,Electronics,1,129.00,Paid
+ORD-1014,2026-10-14,Jackson Lee,Desk Lamp,Home,2,65.50,Paid
+ORD-1015,2026-10-15,Sofia Chen,Everyday Backpack,Accessories,3,89.95,Refunded
+ORD-1016,2026-10-16,Noah Williams,Studio Headphones,Electronics,1,129.00,Pending
+ORD-1017,2026-10-17,Emma Davis,Desk Lamp,Home,2,65.50,Paid
+ORD-1018,2026-10-18,Liam Wilson,Everyday Backpack,Accessories,3,89.95,Paid
